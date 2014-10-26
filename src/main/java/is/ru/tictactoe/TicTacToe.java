@@ -4,9 +4,10 @@ public class TicTacToe
 {
 
 	
-    public static void main(String[] args) {
-        
-        System.out.println("Hello World!!");
+    public static String printHello(String str)
+    {
+    	System.out.println(str);
+    	return str;
     }
 
 

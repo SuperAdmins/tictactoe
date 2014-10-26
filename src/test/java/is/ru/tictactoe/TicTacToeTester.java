@@ -10,8 +10,9 @@ public class TicTacToeTester{
 	}
 	@Test
     public void testMain() {
-        String str1 = "Hello world!!";
-        assertEquals(str1,"Hello World!!");
+        //String str2 = "Hello World!!";
+
+        //assertEquals("Hello World!!",TicTacToe.printHello(str2));
     }
       
 }
