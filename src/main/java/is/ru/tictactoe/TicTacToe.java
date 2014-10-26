@@ -1,6 +1,8 @@
 package is.ru.tictactoe;
 
-public class tictactoe
+public class TicTacToe
 {
-	System.Out.PrintLn("Hello World!");
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
 }
